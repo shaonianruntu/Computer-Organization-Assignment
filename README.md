@@ -1,2 +1,1 @@
-# CO-lab
-计算机组成原理与系统结构实验
+# Computer Organization and Architecture course assignment of HDU
